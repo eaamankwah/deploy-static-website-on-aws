@@ -34,7 +34,7 @@ The following AWS cloud services were employed to complete this project:
 * Amazon Web Services S3: s3 provides resource hosting and deployments. S3 is an object storage system in the cloud. The product page
 diagram of Amazon s3 is shown in the screenshot below:
 
-![S3-product-page](https://github.com/eaamankwah/deploy-static-website-on-aws/blob/main/screenshots/s3-product-page.png)
+![S3-product-page](https://github.com/eaamankwah/deploy-static-website-on-aws/blob/main/screenshots/S3-product-page.png)
 
 
 * AWS CloudFront: provides content delivery network (CDN) services. CloudFront offers low latency and high transfer speeds during website rendering. CloudFront delivers its content through a worldwide network of data centers called edge locations. When a user requests content that you're serving with CloudFront, the request is routed to the edge location that provides the lowest latency (time delay), so that content is delivered with the best possible performance! [cloudfront](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.htm). The product page
