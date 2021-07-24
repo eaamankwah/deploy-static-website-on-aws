@@ -4,13 +4,13 @@
 * Overview
 * Website
 * AWS Cloud Services
-## Project Deliverables
-### S3 Bucket Creation
-### S3 Bucket Configuration
-### Website distribution through CloudFront
-### Access website in web browser
-## Project Files
-## References
+* * Project Deliverables
+* * * S3 Bucket Creation
+* * * S3 Bucket Configuration
+* * * Website distribution through CloudFront
+* * * Access website in web browser
+* Project Files
+* References
 
 ## Overview
 
